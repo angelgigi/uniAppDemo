@@ -1,0 +1,1 @@
+<view> tab列表页 <view class="logo"><image src="{{a}}"></image></view><view><view>当前求和为：{{b}}</view><button bindtap="{{c}}">加</button></view></view>

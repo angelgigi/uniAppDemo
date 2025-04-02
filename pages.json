@@ -1,0 +1,91 @@
+{
+	"pages": [
+		{
+			"path": "pages/requestDemo/requestDemo",
+			"style": {
+				"navigationBarTitleText": "请求Demo页"
+			}
+		},
+		{
+			"path": "pages/list/orderList/index",
+			"style": {
+				"navigationBarTitleText": "订单页"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/classify/classify",
+			"style": {
+				"navigationBarBackgroundColor": "#F2E6DE",
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "分类",
+				"enablePullDownRefresh": true
+			}
+		},
+		
+		{
+			"path": "pages/list/other/index",
+			"style": {
+				"navigationBarTitleText": "其他"
+			}
+		},
+
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录页"
+			},
+			"circular": false
+		},
+		{
+			"path": "pages/wxPay/wxPay",
+			"style": {
+				"navigationBarTitleText": "微信支付"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#007AFF",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页"
+				// "iconPath": "/common/tabBar/home.png",
+				// "selectedIconPath": "/common/tabBar/home-h.png"
+			}, {
+				"pagePath": "pages/classify/classify",
+				"text": "分类"
+				// "iconPath": "/common/tabBar/classify.png",
+				// "selectedIconPath": "/common/tabBar/classify-h.png"
+			}, 
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的"
+				// "iconPath": "common/tabBar/user.png",
+				// "selectedIconPath": "/common/tabBar/user-h.png"
+				}
+			]
+		},
+		// 
+		"globalStyle": {
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "uni-app",
+			"navigationBarBackgroundColor": "#F8F8F8",
+			"backgroundColor": "#F8F8F8",
+			"app-plus": {
+				"background": "#efeff4"
+			}
+		}
+	}

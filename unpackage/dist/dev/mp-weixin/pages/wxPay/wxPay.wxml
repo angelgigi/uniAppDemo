@@ -1,0 +1,1 @@
+<view><button bindtap="{{a}}">发起支付</button></view>

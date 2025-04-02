@@ -1,0 +1,24 @@
+{
+  "name": "医院商城项目",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "pinia": "^3.0.1"
+  },
+  "devDependencies": {
+    "@dcloudio/vite-plugin-uni": "^3.0.0-alpha-3000020210521001",
+    "unplugin-auto-import": "^19.1.2",
+    "vite": "^2.5.10"
+  }
+}

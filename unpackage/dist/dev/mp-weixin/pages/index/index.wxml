@@ -1,0 +1,1 @@
+<view class="container"><button bindtap="{{a}}">登录/注册</button><button bindtap="{{b}}">跳转到tab页</button></view>

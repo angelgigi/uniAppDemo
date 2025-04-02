@@ -1,0 +1,1 @@
+{"version":3,"file":"classify.js","sources":["pages/classify/classify.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/qiqi/Desktop/vue3/uniApp/uniAppDemo/pages/classify/classify.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}
