@@ -1,1 +1,0 @@
-{"version":3,"names":["wx","createPage","_sfc_main"],"sources":["index.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/qiqi/Desktop/vue3/uniApp/医院商城项目/pages/list/orderList/index.vue'\nwx.createPage(MiniProgramPage)"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;AACAA,EAAA,CAAGC,UAAA,CAAWC,SAAe","ignoreList":[]}

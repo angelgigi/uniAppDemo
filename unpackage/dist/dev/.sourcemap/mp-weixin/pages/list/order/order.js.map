@@ -1,1 +1,0 @@
-{"version":3,"file":"order.js","sources":["pages/list/order/order.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/qiqi/Desktop/vue3/uniApp/医院商城项目/pages/list/order/order.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}
